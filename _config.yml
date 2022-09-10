@@ -124,9 +124,6 @@ include:
   - _pages
   - files
 exclude:
-#   - _teaching
-#   - _pages/teaching.html
-#   - _pages/markdown.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
