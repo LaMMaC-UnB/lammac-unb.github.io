@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "25 anos do PETMAT UnB: perfil dos egressos"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/paper_perfil_egressos
+excerpt: 'Este artigo traça o perfil dos egressos do Programa de Educação Tutorial em Matemática da Universidade de Brasília.'
+date: 2021-12
+venue: 'Revista de Iniciação Científica PET MAT'
+paperurl: 'http://caiotomas.github.io/files/ricpetmat-2021.pdf'
+citation: 'Tomás, Caio; Souza, Matheus; Marçal, Thais; Santos, Thailany; Ávila, Luciana. (2021). &quot;25 anos do PETMAT UnB: perfil dos egressos&quot; <i>Revista de Iniciação Científica PET MAT</i>. 5(1). p.16-20'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Este artigo traça o perfil dos egressos do Programa de Educação Tutorial em Matemática da Universidade de Brasília.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Baixe o volume aqui](http://caiotomas.github.io/files/ricpetmat-2021.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Tomás, Caio; Souza, Matheus; Marçal, Thais; Santos, Thailany; Ávila, Luciana. (2021). "25 anos do PETMAT UnB: perfil dos egressos" <i>Revista de Iniciação Científica PET MAT</i>. 5(1). p.16-20
