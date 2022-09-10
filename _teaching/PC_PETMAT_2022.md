@@ -3,7 +3,7 @@ title: "Pesquisa Coletiva PETMAT"
 collection: teaching
 type: "Minicurso"
 permalink: /teaching/pesquisa_coletiva_PET
-venue: "University de Brasília, Departamento de Matemática"
+venue: "Universidade de Brasília, Departamento de Matemática"
 date: 2022-06-01
 location: "Brasília, Brasil"
 ---
