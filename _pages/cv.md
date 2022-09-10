@@ -35,6 +35,9 @@ Skills
   * Experient with Python and LaTeX
   * Familiar with R and Fortran 90/95
 * Teamwork
+* Analytical thinking
+* Problem solving
+* Leadership
 
 Publications
 ======
