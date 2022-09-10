@@ -49,4 +49,4 @@ You can view some of my talks and presentations [here](https://caiotomas.github.
 📫 How to reach me
 ======
 
-If you would like to talk and discuss ideas (or even just chat about something you found interesting here), I invite you to reach out to me via email (which is linked on the left of this page). I also respond fairly quickly in LinkedIn.
+If you would like to talk and discuss ideas (or even just chat about something you found interesting here), I invite you to send me an email (which is linked on the left of this page) or a message in ResearchGate. I also respond fairly quickly in LinkedIn.
