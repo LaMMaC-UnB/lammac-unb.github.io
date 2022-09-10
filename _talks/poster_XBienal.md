@@ -1,7 +1,7 @@
 ---
 title: "Tranças, nós e protetores de para-brisa"
 collection: talks
-type: "Presentation"
+type: "Talk"
 permalink: /talks/poster_trancas_Belem
 venue: "Universidade Federal do Pará, Instituto de Ciências Exatas e Naturais
 date: 2022-06-24
