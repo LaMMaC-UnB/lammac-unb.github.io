@@ -85,8 +85,8 @@ author:
   bio              : "Mathematics undergraduate student"
   location         : "Brasília, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=B5Way0EAAAAJ"
   email            : "caiotomas6@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Caio-De-Paula-3"
   uri              :
