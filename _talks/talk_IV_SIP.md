@@ -3,7 +3,7 @@ title: "Análise da interação parede-partícula em um amortecedor magnético"
 collection: talks
 type: "Talk"
 permalink: /talks/talk_IV_SIP
-venue: "Universidade de Brasília, Departamento de Matemática
+venue: "Universidade de Brasília, Departamento de Matemática"
 date: 2022-08-29
 location: "Brasília, Distrito Federal"
 ---
