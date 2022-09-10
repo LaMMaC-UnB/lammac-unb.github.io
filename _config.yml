@@ -125,7 +125,8 @@ include:
   - files
 exclude:
   - _teaching
-  - teaching.html
+  - _pages/teaching.html
+  - _pages/markdown.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
