@@ -1,6 +1,6 @@
 ---
 title: "Uma rápida viagem na teoria dos nós e tranças"
-excerpt: "Notas do meu projeto de PIBIC em Teoria de Tranças e Nós realizado sob orientação da professora Sheila Chagas da Universidade de Brasília.<br/><img src='/images/trefoil.png'>"
+excerpt: "Notas do meu projeto de PIBIC em Teoria de Tranças e Nós realizado sob orientação da professora Sheila Chagas da Universidade de Brasília.<br/><img src='/images/trefoil.png' width="200">"
 collection: portfolio
 ---
 
