@@ -1,7 +1,7 @@
 ---
 title: "O PET Matemática da Universidade de Brasília: 25 anos de história"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper_RECEI
 excerpt: 'This paper, written in portuguese, presents the history of the Tutorial Education Program in Mathematics of the University of Brasília which, in 2020, celebrated 25 years of existence.
 
 Este artigo, escrito em portugês, conta a história do Programa de Educação Tutorial em Matemática da Universidade de Brasília que, em 2020, celebrou 25 anos de existência.'
