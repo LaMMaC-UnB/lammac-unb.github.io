@@ -46,7 +46,7 @@ Talks
 
 You can view some of my talks and presentations [here](https://caiotomas.github.io/talks/).
 
-📫 Where to reach me
+📫 How to reach me
 ======
 
 If you would like to talk and discuss ideas (or even just chat about something you found interesting here), I invite you to reach out to me via email (which is linked in the left of this page). I also respond fairly quickly in LinkedIn.
