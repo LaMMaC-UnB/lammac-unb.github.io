@@ -24,7 +24,7 @@ Current and previous work
 - 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> 
 <!-- <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red"> -->
 
-- 🤝🏼  I’m looking to collaborate on anything that involves at least a little bit of math!
+- 🤝🏼  I’m looking forward to collaborate on anything that involves at least a little bit of math or physics (or math and physics)!
 
 - I have also done other research projects while an undergrad at UnB. You can check them in detail at my [curriculum Lattes](http://lattes.cnpq.br/3803046005556999). Here is the list of them, with the topics of research resumed for the sake of brevity and ordered older to recent:
 
