@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2020 to Summer 2021: Data Science Intern
+* December 2021 to September 2022: Data Science Intern
   * Instituto Brasileiro de Pesquisa e Análise de Dados (IBPAD)
   * Duties included: monitoring scripts for scraping of social networks, cleaning databases, connecting databases and writing support material.
   * Supervisor: José Tenório Abs Júnior
