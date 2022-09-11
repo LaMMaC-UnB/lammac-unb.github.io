@@ -15,3 +15,5 @@ What is mathematics about? We, (aspiring) mathematicians, know that it is certai
 Some of my friends said that mathematics is about solving problems, and I think I agree with that.
 
 One thing we all agreed on was that a mathematician is, by nature (or definition?) a curious being. It is this curiosity that fuels and powers the undying desire to dig deeper, to discover new things, to explain unknown things, to discover new mathematics.
+
+I do not think that this question will ever be fully answered, but I also think that mathematicians will never stop trying to answer it, just as they will never stop doing mathematics.
