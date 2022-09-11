@@ -1,6 +1,6 @@
 ---
 title: 'First post!'
-date: 2022-09-11
+date: 2020-09-11
 permalink: /posts/2022/09/first-post/
 tags:
   - cool posts
