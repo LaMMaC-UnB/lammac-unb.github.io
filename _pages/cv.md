@@ -37,6 +37,7 @@ Skills
 * Analytical thinking
 * Problem solving
 * Leadership
+* Fluent in English
 
 Publications
 ======
