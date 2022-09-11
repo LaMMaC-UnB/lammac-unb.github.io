@@ -9,3 +9,6 @@ tags:
 ---
 
 This is my first post! Yay!
+
+Heading test
+======
