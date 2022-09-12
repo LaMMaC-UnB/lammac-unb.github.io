@@ -1,6 +1,6 @@
 ---
 title: 'Future Post Test'
-date: 2022-09-12
+date: 2022-09-13
 permalink: /posts/test-future-post/
 tags:
   - cool posts
