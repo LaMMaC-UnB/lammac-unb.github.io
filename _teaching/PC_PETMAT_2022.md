@@ -5,7 +5,7 @@ type: "Minicurso"
 permalink: /teaching/pesquisa_coletiva_PET
 venue: "Universidade de Brasília, Departamento de Matemática"
 date: 2022-06-01
-location: "Brasília, Brasil"
+location: "Brasília, Distrito Federal"
 ---
 
 Eu e meu colega Matheus Souza lideramos a atividade chamada Pesquisa Coletiva realizada pelos integrantes do PET Matemática UnB. Neste minicurso, abordamos conceitos de geometria, como construções com régua e compasso, isometrias e falamos um pouco sobre isometrias não euclidianas.
