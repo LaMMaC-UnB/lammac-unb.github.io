@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Brasília, 2022 (expected)
+* B.S. in Mathematics, University of Brasília, 2022
 <!-- * M.S. in Jekyll, GitHub University, 2014 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
