@@ -13,5 +13,10 @@ var addressPoints = [
     "S\u00e3o Carlos, S\u00e3o Paulo",
     -22.0180395,
     -47.891154
+  ],
+  [
+    "Campinas, S\u00e3o Paulo",
+    -23.0455173,
+    -47.8262356
   ]
 ];
