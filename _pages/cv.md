@@ -21,6 +21,11 @@ Work experience
   * Duties included: monitoring scripts for scraping of social networks, cleaning databases, connecting databases and writing support material.
   * Supervisor: José Tenório Abs Júnior
 
+* October 2022: Business Intelligence Analyst
+  * Núcleo de Mídia Banco do Brasil (NMBB)
+  * Duties Include: analyse performance of digital campaigns in several tools as Google, Facebook, Twitter and LinkedIn, automate process, develop scripts of monitoring.
+  * Supervisor: Luiz Missio
+
 <!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
