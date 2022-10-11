@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
+* October 2022: Business Intelligence Analyst
+  * Núcleo de Mídia Banco do Brasil (NMBB)
+  * Duties include: analyse performance of digital campaigns in several tools as Google, Facebook, Twitter and LinkedIn, automate process, develop scripts of monitoring.
+  * Supervisor: Luiz Missio
+
 * December 2021 to September 2022: Data Science Intern
   * Instituto Brasileiro de Pesquisa e Análise de Dados (IBPAD)
   * Duties included: monitoring scripts for scraping of social networks, cleaning databases, connecting databases and writing support material.
   * Supervisor: José Tenório Abs Júnior
-
-* October 2022: Business Intelligence Analyst
-  * Núcleo de Mídia Banco do Brasil (NMBB)
-  * Duties Include: analyse performance of digital campaigns in several tools as Google, Facebook, Twitter and LinkedIn, automate process, develop scripts of monitoring.
-  * Supervisor: Luiz Missio
 
 <!-- * Fall 2015: Research Assistant
   * Github University
