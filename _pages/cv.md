@@ -61,7 +61,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Prizes and awards
+======
+* Aluno-Destaque do bacharelado em Matemática do 1º semestre de 2022
+* Honorable mention at the 2018 Brazilian Olympiad of Public Schools (OBMEP)
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
