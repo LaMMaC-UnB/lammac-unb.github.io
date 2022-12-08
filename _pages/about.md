@@ -53,4 +53,4 @@ If you would like to talk and discuss ideas (or even just chat about something y
 
 💻 Digital fingerprint on math forums
 ======
-<a href="https://mathoverflow.net/users/168737/caio-tom%c3%a1s"><img src="https://mathoverflow.net/users/flair/168737.png?theme=dark" width="208" height="58" alt="profile for Caio Tom&#225;s at MathOverflow, Q&amp;A for professional mathematicians" title="profile for Caio Tom&#225;s at MathOverflow, Q&amp;A for professional mathematicians"></a>
+<a href="https://mathoverflow.net/users/168737/caio-tom%c3%a1s"><img src="https://mathoverflow.net/users/flair/168737.png?theme=clean" width="208" height="58" alt="profile for Caio Tom&#225;s at MathOverflow, Q&amp;A for professional mathematicians" title="profile for Caio Tom&#225;s at MathOverflow, Q&amp;A for professional mathematicians"></a>
