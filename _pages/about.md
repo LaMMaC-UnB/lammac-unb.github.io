@@ -19,7 +19,7 @@ Current and previous work
 
 - 🔭🧲 I'm currently on a research project on the compression of a granular layer composed of repelling magnetic particles, under the orientation of professor Yuri Dumaresq Sobral (here's his [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [ResearchGate profile](https://www.researchgate.net/profile/Yuri-Sobral) and [website](http://yuri.mat.unb.br/)).
 
-- 💻 I’m currently working on <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black">
+- :nerd_face: I’m currently working on <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black">
 
 - 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> 
 <!-- <img align="center" src="https://img.shields.io/badge/Julia-238020?style=for-the-badge&logo=julia&logoColor=red"> -->
@@ -50,3 +50,7 @@ You can view some of my talks and presentations [here](https://caiotomas.github.
 ======
 
 If you would like to talk and discuss ideas (or even just chat about something you found interesting here), I invite you to send me an email (which is linked on the left of this page) or a message in ResearchGate. I also respond fairly quickly in LinkedIn.
+
+💻 Digital fingerprint on math forums
+======
+<a href="https://mathoverflow.net/users/168737/caio-tom%c3%a1s"><img src="https://mathoverflow.net/users/flair/168737.png?theme=dark" width="208" height="58" alt="profile for Caio Tom&#225;s at MathOverflow, Q&amp;A for professional mathematicians" title="profile for Caio Tom&#225;s at MathOverflow, Q&amp;A for professional mathematicians"></a>
