@@ -18,12 +18,20 @@ Work experience
 ======
 * October 2022: Business Intelligence Analyst
   * Núcleo de Mídia Banco do Brasil (NMBB)
-  * Duties include: analyse performance of digital campaigns in several tools as Google, Facebook, Twitter and LinkedIn, automate process, develop scripts of monitoring, build/maintain/query databases in Google BigQuery, connect and extract data via APIs.
+  * Duties include: 
+    * analyse performance of digital campaigns in several tools as Google, Facebook, Twitter and LinkedIn
+    * automate process and develop scripts of monitoring
+    * build/maintain/query databases in Google BigQuery
+    * connect and extract data via APIs
   * Supervisor: Luiz Missio
 
 * December 2021 to September 2022: Data Science Intern
   * Instituto Brasileiro de Pesquisa e Análise de Dados (IBPAD)
-  * Duties included: monitoring scripts for scraping of social networks, cleaning databases, connecting databases and writing support material.
+  * Duties included: 
+    * monitor scripts for scraping of social networks
+    * clean databases
+    * connect databases
+    * write support material
   * Supervisor: José Tenório Abs Júnior
 
 <!-- * Fall 2015: Research Assistant
@@ -38,6 +46,8 @@ Skills
 * Programming
   * Experient with Python and LaTeX
   * Familiar with R and Fortran 90/95
+  * Familiar with BigQuery and Apps Script
+  * Familiar with SQL
 * Teamwork
 * Analytical thinking
 * Problem solving
