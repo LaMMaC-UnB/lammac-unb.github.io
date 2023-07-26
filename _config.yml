@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caio Tomás de Paula"
+title                    : "LaMMaC"
 title_separator          : "-"
-name                     : &name "Caio Tomás de Paula"
-description              : &description "Master's student of Applied Mathematics at University of Brasília"
-url                      : https://caiotomas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "LaMMaC"
+description              : &description "Laboratory of Computational and Mathematical Modelling of the Department of Mathematics at University of Brasília."
+url                      : https://lammac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CaioTomas/caiotomas.github.io"
+repository               : "LaMMaC-UnB/lammac.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &CaioTPaula
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Caio Tomás"
-  avatar           : "foto_perfil.jpg"
-  bio              : "Master's student of Applied Mathematics at University of Brasília"
+  name             : "LaMMaC"
+  avatar           : 
+  bio              : "Laboratory of Computational and Mathematical Modelling of the Department of Mathematics at University of Brasília."
   location         : "Brasília, Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=B5Way0EAAAAJ"
-  email            : "caiotomas6@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Caio-De-Paula-3"
+  googlescholar    : 
+  email            : "l.m.m.e.computacional@mat.unb.br"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,26 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CaioTomas"
+  github           : "LaMMaC-UnB"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "caiotomas/"
-  orcid            : "https://orcid.org/0000-0003-2064-6784"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "17897485/caio-tomás"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@CaioTPaula"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  lattes           : "http://lattes.cnpq.br/3803046005556999"
+  lattes           : 
 
 
 # Reading Files
