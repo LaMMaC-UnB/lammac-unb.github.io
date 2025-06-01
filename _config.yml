@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "LaMMaC"
-  avatar           : 
+  avatar           : "logo.jpeg"
   bio              : "Laboratory of Computational and Mathematical Modelling of the Department of Mathematics at University of Brasília."
   location         : "Brasília, Brazil"
   employer         :
