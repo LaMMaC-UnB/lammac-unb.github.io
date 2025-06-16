@@ -31,6 +31,8 @@ If you would like to talk and discuss ideas/projects/collaborations, we invite y
 
 Members of the group
 ======
+You can see more details of our research group [here](http://dgp.cnpq.br/dgp/espelhogrupo/779770).
+
 - Professors
   - Andrea Genovese de Oliveira
   - Camila de Oliveira Vieira
