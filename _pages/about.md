@@ -28,3 +28,10 @@ You can view our publications [here](https://lammac-unb.github.io/publications/)
 ======
 
 If you would like to talk and discuss ideas/projects/collaborations, we invite you to send us an email (which is linked on the left of this page).
+
+Members of the group
+======
+* Yuri
+* Caio
+* Saulo
+* Camila
