@@ -31,7 +31,20 @@ If you would like to talk and discuss ideas/projects/collaborations, we invite y
 
 Members of the group
 ======
-* Yuri
-* Caio
-* Saulo
-* Camila
+- Professors
+  - Andrea Genovese de Oliveira
+  - Camila de Oliveira Vieira
+  - Yuri Dumaresq Sobral
+
+- Students
+  - Alan Santos Gois
+  - Caio Tomás de Paula
+  - Callebe Rocha Reis
+  - Dhiego Loiola de Araújo
+  - Gabriel Nóbrega Bufolo
+  - Ghylherme Patriota Nunes da Rocha
+  - Jorge Augusto Cassis Modesto
+  - Luís Fernando Mendes Cury
+  - Marina Costa Merch dos Santos
+  - Raquel Souza Carvalho
+  - Saulo Rodrigo Medrado
